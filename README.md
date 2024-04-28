@@ -1,0 +1,1 @@
+Appled the thermodynamic model for the case when only CO2 and H2O are present in gas mixture. Further, H2O is ignored in the calculation of gas phase fugacity. Therefore, CO2 fugacity coefficient can be calculated using the pure species equation of state![image](https://github.com/SK-Intellectual/Thermodynamics_Modelling/assets/141943301/50700acd-b133-4c03-b608-c0882904305e)
